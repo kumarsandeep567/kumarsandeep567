@@ -1,30 +1,29 @@
 
+### Hi there hello! 🙋‍♂️
+
 # 💫 About Me:
 
-👀 I'm into Data Science, Machine Learning, and Backend Engineering. <br>
+👀 My name is Sandeep Kumar and I'm into Data Science, Machine Learning, and Backend Engineering. </br>
 
-🌱 Currently pursuing my Masters in Software Engineering Systems (Data Architecture Management concentration). <br>
+🌱 I'm currently pursuing my Masters in Software Engineering Systems (Data Architecture Management concentration). </br>
 
-💞️ Eager to collaborate on Machine Learning or Backend Development projects. <br>
+💞️ I'm eager to collaborate on Machine Learning or Backend Development projects and would be delighted to contribute. </br>
 
-😄 Pronouns: He/Him <br>
+😄 Pronouns: He/Him </br>
 
-⚡ Fun fact: Cats have five toes on their front paws, but only four toes on their back paws
+⚡ Here's a random fun fact: Cats have five toes on their front paws, but only four toes on their back paws 😺
 
+</br>
   
-  
+# 🌐 Socials:
 
-## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-k-kumar/) <svg width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="Interface / External_Link"><path id="Vector" d="M10.0002 5H8.2002C7.08009 5 6.51962 5 6.0918 5.21799C5.71547 5.40973 5.40973 5.71547 5.21799 6.0918C5 6.51962 5 7.08009 5 8.2002V15.8002C5 16.9203 5 17.4801 5.21799 17.9079C5.40973 18.2842 5.71547 18.5905 6.0918 18.7822C6.5192 19 7.07899 19 8.19691 19H15.8031C16.921 19 17.48 19 17.9074 18.7822C18.2837 18.5905 18.5905 18.2839 18.7822 17.9076C19 17.4802 19 16.921 19 15.8031V14M20 9V4M20 4H15M20 4L13 11" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-k-kumar/)
-
-  
+</br>  
 
 # 💻 Tech Stack:
 ### Languages: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-
-  
 
 ### Web Technologies and Frameworks:
 
@@ -45,6 +44,8 @@
  ### DevOps:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Shell Scripting](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+
+</br>
 
 # 📊 GitHub Stats:
 
