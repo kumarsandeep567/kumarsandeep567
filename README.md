@@ -3,7 +3,7 @@
   src="https://raw.githubusercontent.com/kumarsandeep567/kumarsandeep567/main/tokens.svg" 
   width="602" 
   alt="Hi there hello! I'm an AI and software engineer working on agents, agent harnesses, inference, and distributed systems. Mostly making sure things don’t fall apart when real users show up. :)"
->
+/>
 
 # 📊 GitHub Stats:
 
